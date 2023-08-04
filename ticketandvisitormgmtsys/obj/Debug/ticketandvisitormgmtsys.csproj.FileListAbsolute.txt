@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\.net\ticketandvisitormgmtsys\bin\Debug\ticketandvisitormgmtsys.exe.config
+C:\Users\Admin\Desktop\.net\ticketandvisitormgmtsys\bin\Debug\ticketandvisitormgmtsys.exe
+C:\Users\Admin\Desktop\.net\ticketandvisitormgmtsys\bin\Debug\ticketandvisitormgmtsys.pdb
+C:\Users\Admin\Desktop\.net\ticketandvisitormgmtsys\obj\Debug\ticketandvisitormgmtsys.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\.net\ticketandvisitormgmtsys\obj\Debug\ticketandvisitormgmtsys.Login.resources
+C:\Users\Admin\Desktop\.net\ticketandvisitormgmtsys\obj\Debug\ticketandvisitormgmtsys.Properties.Resources.resources
+C:\Users\Admin\Desktop\.net\ticketandvisitormgmtsys\obj\Debug\ticketandvisitormgmtsys.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\.net\ticketandvisitormgmtsys\obj\Debug\ticketandvisitormgmtsys.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\.net\ticketandvisitormgmtsys\obj\Debug\ticketandvisitormgmtsys.exe
+C:\Users\Admin\Desktop\.net\ticketandvisitormgmtsys\obj\Debug\ticketandvisitormgmtsys.pdb
+C:\Users\Admin\Desktop\.net\ticketandvisitormgmtsys\obj\Debug\ticketandvisitormgmtsys.Admin.resources
+C:\Users\Admin\Desktop\.net\ticketandvisitormgmtsys\obj\Debug\ticketandvisitormgmtsys.Staff.resources
